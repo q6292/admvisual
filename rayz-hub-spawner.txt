@@ -483,7 +483,7 @@ task.spawn(
 
         WindUI:Popup(
             {
-                Title = "RAYZ HUB",
+                Title = "project 94",
                 Icon = "cuboid",
                 IconThemed = true,
                 Content = "hello this is adopt me visual enjoy make sure you join our sever for more updates",
@@ -513,9 +513,9 @@ task.spawn(
         local Window =
             WindUI:CreateWindow(
             {
-                Title = "RAYZ HUB",
+                Title = "PROJECT 94",
                 Icon = "laptop",
-                Author = "by insidious.xvi",
+                Author = "",
                 Folder = "ChunkHubmm2",
                 Size = UDim2.fromOffset(420, 350),
                 Transparent = false,
@@ -533,7 +533,7 @@ task.spawn(
 
         Window:EditOpenButton(
             {
-                Title = "open RAYZ HUB",
+                Title = "open ADOPT ME SPAWNER",
                 Icon = "rbxassetid://4483345998",
                 CornerRadius = UDim.new(0, 16),
                 StrokeThickness = 2,
@@ -583,7 +583,7 @@ task.spawn(
                 Callback = function()
                     task.spawn(
                         function()
-                            setclipboard("https://discord.gg/An5KYG8w6a")
+                            setclipboard("https://discord.gg/G3XYCyRYa9")
                             warn("Discord invite copied to clipboard!")
                         end
                     )
